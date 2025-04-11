@@ -4,9 +4,14 @@
 
 header {
   background-color: blue;
+  margin: 0;
 }
 
 .header-name {
   text-align: center;
   color: green;
+}
+
+.page-options {
+  color: pink;
 }
