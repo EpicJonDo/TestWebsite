@@ -1,6 +1,12 @@
-title {
-  color: orange;
+html {
+  background-color: black;
 }
-h1 {
-  color: red;
+
+header {
+  background-color: blue;
+}
+
+.header-title {
+  text-align: center;
+  color: green;
 }
