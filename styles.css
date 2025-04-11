@@ -9,6 +9,8 @@ header {
 .header-name {
   text-align: center;
   color: lightgreen;
+  border-color: white;
+  border-width: thick;
 }
 
 .page-link {
